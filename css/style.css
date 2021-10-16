@@ -370,6 +370,25 @@ input[type="email"] {
 
 /* akhir dari footer */
 
+/* custom css sweet alert */
+.swal2-popup {
+  font-size: 1em !important;
+  font-family: "Poppins", sans-serif;
+}
+
+.swal2-title {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 10px;
+}
+
+.swal2-html-container {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 10px;
+}
+/* akhir sweet alert */
+
 /* media query */
 
 @media screen and (max-width: 550px) {
